@@ -2,8 +2,8 @@ package teacher;
 
 public class test {
 
-	int test;
-	int num;
+	int test7;
+	int num7;
 	
 }
 
